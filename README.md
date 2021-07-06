@@ -11,6 +11,9 @@
 - 📫 How to reach me : [Telegram](https://t.me/guilhermelirio)
 - ⚡ Passionate about new technologies.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=guilhermelirio)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **guilhermelirio/guilhermelirio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
