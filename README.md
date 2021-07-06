@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/guilhermelirio/)](https://www.instagram.com/guilhermelirio/)
 
 - 🔭 I’m currently working on Voice Apps development and mobile development.
-- 🌱 I’m currently learning Dart/Flutter and Home Automation.
+- 🌱 I’m currently learning Dart/Flutter and Jovo framework.
 - 💬 Ask me about them, open an **issue**.
 - 📫 How to reach me : [Telegram](https://t.me/guilhermelirio)
 - ⚡ Passionate about new technologies.
