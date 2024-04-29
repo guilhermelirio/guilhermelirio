@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermelirio@gmail.com)](mailto:guilhermelirio@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/guilhermelirio/)](https://www.instagram.com/guilhermelirio/)
 
-- 🔭 I’m currently working on Voice Apps development and mobile development.
-- 🌱 I’m currently learning Dart/Flutter and Jovo framework.
+- 🔭 I’m currently working on IA.
+- 🌱 I’m currently learning Dart/Flutter.
 - 💬 Ask me about them, open an **issue**.
 - 📫 How to reach me : [Telegram](https://t.me/guilhermelirio)
 - ⚡ Passionate about new technologies.
